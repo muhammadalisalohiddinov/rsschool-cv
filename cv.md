@@ -27,7 +27,7 @@ For the time being, i am busy with small projects that are given by the mentor o
 
 - **Address:** Incheon, Michuhol-gu Hannaru-ro  493 beon-gil 93
 - **Phone:** +821075964334
-- **E-mail:** <muhammadalisalohiddinov26@gmail.com>
+- **E-mail:** [muhammadali_salohiddinov]<muhammadalisalohiddinov26@gmail.com>
 - **LinkedIn:** [muhammadali_salohiddinov_linkedIn](https://www.linkedin.com/in/muhammadali-salohiddinov-256b53211/)
 - **GitHub:** [muhammadali_salohiddinov_git_hub](https://github.com/muhammadalisalohiddinov)
 
